@@ -1,0 +1,39 @@
+E:\B.karshenasi\term2\proje library1\projelib\projelib\bin\Debug\projelib.exe.config
+E:\B.karshenasi\term2\proje library1\projelib\projelib\bin\Debug\projelib.exe
+E:\B.karshenasi\term2\proje library1\projelib\projelib\bin\Debug\projelib.pdb
+E:\B.karshenasi\term2\proje library1\projelib\projelib\obj\Debug\projelib.csprojResolveAssemblyReference.cache
+E:\B.karshenasi\term2\proje library1\projelib\projelib\obj\Debug\projelib.Properties.Resources.resources
+E:\B.karshenasi\term2\proje library1\projelib\projelib\obj\Debug\projelib.csproj.GenerateResource.Cache
+E:\B.karshenasi\term2\proje library1\projelib\projelib\obj\Debug\projelib.exe
+E:\B.karshenasi\term2\proje library1\projelib\projelib\obj\Debug\projelib.pdb
+E:\B.karshenasi\term2\proje library1\projelib\projelib\obj\Debug\projelib.logpage.resources
+E:\B.karshenasi\term2\proje library1\projelib\projelib\obj\Debug\projelib.stupage.resources
+E:\B.karshenasi\term2\proje library1\projelib\projelib\obj\Debug\projelib.masoollib.resources
+E:\B.karshenasi\term2\proje library1\projelib\projelib\bin\Debug\bin\Debug\msvlibdb1.mdf
+E:\B.karshenasi\term2\proje library1\projelib\projelib\bin\Debug\bin\Debug\msvlibdb1_log.ldf
+C:\Users\asus\Desktop\projelib\projelib\bin\Debug\projelib.exe.config
+C:\Users\asus\Desktop\projelib\projelib\obj\Debug\projelib.exe
+C:\Users\asus\Desktop\projelib\projelib\obj\Debug\projelib.pdb
+C:\Users\asus\Desktop\projelib\projelib\bin\Debug\bin\Debug\msvlibdb1.mdf
+C:\Users\asus\Desktop\projelib\projelib\bin\Debug\bin\Debug\msvlibdb1_log.ldf
+C:\Users\asus\Desktop\projelib\projelib\bin\Debug\projelib.exe
+C:\Users\asus\Desktop\projelib\projelib\bin\Debug\projelib.pdb
+C:\Users\asus\Desktop\projelib\projelib\obj\Debug\projelib.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\projelib\projelib\obj\Debug\projelib.logpage.resources
+C:\Users\asus\Desktop\projelib\projelib\obj\Debug\projelib.masoollib.resources
+C:\Users\asus\Desktop\projelib\projelib\obj\Debug\projelib.Properties.Resources.resources
+C:\Users\asus\Desktop\projelib\projelib\obj\Debug\projelib.stupage.resources
+C:\Users\asus\Desktop\projelib\projelib\obj\Debug\projelib.csproj.GenerateResource.Cache
+E:\book&projeLib\projelib\projelib\bin\Debug\projelib.exe.config
+E:\book&projeLib\projelib\projelib\obj\Debug\projelib.exe
+E:\book&projeLib\projelib\projelib\obj\Debug\projelib.pdb
+E:\book&projeLib\projelib\projelib\bin\Debug\bin\Debug\msvlibdb1.mdf
+E:\book&projeLib\projelib\projelib\bin\Debug\bin\Debug\msvlibdb1_log.ldf
+E:\book&projeLib\projelib\projelib\bin\Debug\projelib.exe
+E:\book&projeLib\projelib\projelib\bin\Debug\projelib.pdb
+E:\book&projeLib\projelib\projelib\obj\Debug\projelib.csprojResolveAssemblyReference.cache
+E:\book&projeLib\projelib\projelib\obj\Debug\projelib.logpage.resources
+E:\book&projeLib\projelib\projelib\obj\Debug\projelib.masoollib.resources
+E:\book&projeLib\projelib\projelib\obj\Debug\projelib.Properties.Resources.resources
+E:\book&projeLib\projelib\projelib\obj\Debug\projelib.stupage.resources
+E:\book&projeLib\projelib\projelib\obj\Debug\projelib.csproj.GenerateResource.Cache
